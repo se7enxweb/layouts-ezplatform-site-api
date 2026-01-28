@@ -1,7 +1,7 @@
 {
-    "name": "netgen/layouts-ezplatform-site-api",
+    "name": "se7enxweb/layouts-ezplatform-site-api",
     "description": "Netgen Layouts & eZ Platform Site API integration",
-    "license": "GPL-2.0-only",
+    "license": "GPL-2.0-or-later",
     "type": "symfony-bundle",
     "authors": [
         {
@@ -10,8 +10,8 @@
         }
     ],
     "require": {
-        "netgen/layouts-ezplatform": "~1.4.7",
-        "netgen/ezplatform-site-api": "^3.7 || ^4.3"
+        "se7enxweb/layouts-ezplatform": "~1.4.7",
+        "se7enxweb/ezplatform-site-api": "^3.7 || ^4.3"
     },
     "require-dev": {
         "netgen/layouts-coding-standard": "^2.0",
